@@ -20,4 +20,4 @@ The "Red Belt" course covers :
 
 ## Assignments
 ### Airline tickets
-Use macros to avoid code repetition.
+Use macros to avoid code repetition. Create a macros SORT_BY which takes class'es field as a parameter and compares two objects by the given field. Create macros UPDATE_FIELD which takes ticket object, class'es field name and a map with the new values as parameters and updates object accordingly. Overload all necessary operators to make program function properly.
